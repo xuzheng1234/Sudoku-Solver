@@ -34,7 +34,7 @@ public class SudokuSolver {
             }
             System.out.println();
         }
-        System.out.println(isValidSudoku(board));
+       
     }
 
     static int getBox(int x, int y) {
